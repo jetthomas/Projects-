@@ -1,0 +1,34 @@
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\bin\Debug\Porject 1.exe.config
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\bin\Debug\Porject 1.exe
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\bin\Debug\Porject 1.pdb
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject 1.csprojAssemblyReference.cache
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject_1.Form1.resources
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject_1.Properties.Resources.resources
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.GenerateResource.cache
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.CoreCompileInputs.cache
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject 1.exe
+Q:\Bachelor of Information Technology\Programming\Assignment 1\Porject 1\Porject 1\obj\Debug\Porject 1.pdb
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.exe.config
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.exe
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.pdb
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csprojAssemblyReference.cache
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Form1.resources
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Properties.Resources.resources
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.GenerateResource.cache
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.CoreCompileInputs.cache
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.exe
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.pdb
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Harder_Game.resources
+C:\Users\Jet Thomas\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Easy_Game.resources
+C:\Users\jetth\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.exe.config
+C:\Users\jetth\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.exe
+C:\Users\jetth\Desktop\Porject 1\Porject 1\bin\Debug\Porject 1.pdb
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csprojAssemblyReference.cache
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Easy_Game.resources
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Form1.resources
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Harder_Game.resources
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject_1.Properties.Resources.resources
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.GenerateResource.cache
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.csproj.CoreCompileInputs.cache
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.exe
+C:\Users\jetth\Desktop\Porject 1\Porject 1\obj\Debug\Porject 1.pdb
